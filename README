@@ -1,1 +1,4 @@
 /usr/bin/script -qc /bin/bash /dev/null
+
+
+nmap --script nmap-vulners,vulscan --script-args vulscandb=exploitdb.csv -sV -p6001 IP
