@@ -2,3 +2,4 @@
 
 
 nmap --script nmap-vulners,vulscan --script-args vulscandb=exploitdb.csv -sV -p6001 IP
+https://book.hacktricks.xyz/linux-unix/useful-linux-commands
