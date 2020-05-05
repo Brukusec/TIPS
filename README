@@ -3,3 +3,10 @@
 
 nmap --script nmap-vulners,vulscan --script-args vulscandb=exploitdb.csv -sV -p6001 IP
 https://book.hacktricks.xyz/linux-unix/useful-linux-commands
+
+
+https://xapax.gitbooks.io/security/content/tcp-dumps_on_pwnd_machines.html
+
+https://gtfobins.github.io/
+
+https://book.hacktricks.xyz/
